@@ -14,8 +14,12 @@
 
 # Compiling, Training, and Evaluating the Model
 ###### How many neurons, layers, and activation functions did you select for your neural network model, and why?
+###### The three different models used various combinations to reach a 75% success rate.  Here is the breakdown of the models:
+- Model 1: 170 neurons, 2 hidden layers and activation function relu and sigmoid
+- Model 2: 120 neurons, 3 hidden layers and activation function relu and tanh
+- Model 3: 170 neurons, 2 hidden layers and activation function sigmoid
 ###### Were you able to achieve the target model performance?
-After performing three different Neural Network Models, I was not able to obtain a performance higher than 75%.  The highest was 65% and the lowest was 48%.
+###### After performing three different Neural Network Models, I was not able to obtain a performance higher than 75%.  The highest was 65% and the lowest was 48%.
 - Model 1
 ![Model 1](https://github.com/ramon0101alonso/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201%20Evaluation.png)
 - Model 2
@@ -23,6 +27,7 @@ After performing three different Neural Network Models, I was not able to obtain
 - Model 3
 ![Model 3](https://github.com/ramon0101alonso/Neural_Network_Charity_Analysis/blob/main/Resources/Model%203%20Evaluation.png)        
 ###### What steps did you take to try and increase model performance?
+###### By changing the amount of neurons, layers and activation functions, I was able to change the accuracy rate of my models.  The goal of 75% was not reached.
 
 # Summary
-###### Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+###### The model with the highest accuracy was at 65%.  Changing the neurons, hidden layers and activation will definately increase or decrease the accuracy.  Higher neurons can decrease the accuaracy  because it is unecessary.  Using different combinations would take a long time but can be possible to obtain a closer goal accuracy of 75%
