@@ -15,8 +15,12 @@
 # Compiling, Training, and Evaluating the Model
 ###### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 ###### Were you able to achieve the target model performance?
+After performing three different Neural Network Models, I was not able to obtain a performance higher than 75%.  The highest was 65% and the lowest was 48%.
+- Model 1
 ![Model 1](https://github.com/ramon0101alonso/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201%20Evaluation.png)
+- Model 2
 ![Model 2](https://github.com/ramon0101alonso/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202%20Evaluation.png)
+- Model 3
 ![Model 3](https://github.com/ramon0101alonso/Neural_Network_Charity_Analysis/blob/main/Resources/Model%203%20Evaluation.png)        
 ###### What steps did you take to try and increase model performance?
 
